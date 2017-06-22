@@ -6,7 +6,7 @@ class Usermailer < ApplicationMailer
   #   en.usermailer.livechat.subject
   #
   def livechat(user)
-    @user = "user.email"
+    @user = user.email
 
     mail to: "saiandalindia@gmail.com"
   end
