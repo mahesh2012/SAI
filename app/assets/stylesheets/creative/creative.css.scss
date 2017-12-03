@@ -89,12 +89,12 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #f05f40;
+    color: #ed801a;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #ed801a;
 }
 
 .navbar-default .nav > li>a,
@@ -128,12 +128,12 @@ aside {
     }
 
     .navbar-default .navbar-header .navbar-brand {
-        color: rgba(255,255,255,.7);
+        color: #ed801a;
     }
 
     .navbar-default .navbar-header .navbar-brand:hover,
     .navbar-default .navbar-header .navbar-brand:focus {
-        color: #fff;
+        color: #ed801a;
     }
 
     .navbar-default .nav > li>a,
@@ -178,7 +178,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: asset-data-url("creative/header.jpg");
+    background-image: asset-data-url("creative/header.png");
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
